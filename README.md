@@ -1,7 +1,8 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/TaislaineMassucato/portifolio-treininho/assets/104451227/5f37c94f-568d-42d4-81c2-071ab89e8308)
+![image](https://github.com/TaislaineMassucato/portifolio-treininho/assets/104451227/41853381-a9a7-4cda-a0b2-5559a829aa92)
+
 
 ## Ferramentas utilizadas:
 
